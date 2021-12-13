@@ -24,9 +24,6 @@ Foi desenvolvido usando:
 - CSS
 - JavaScript
 
-
-#### Lições aprendidas:
-
 ### [Dindin APP](https://github.com/Nay-ane/dindin-app)
 
 No terceiro desafio foi uma página que seria uma aplicação para auxiliar no controle de gastos, podendo ter entradas e saídas de valores.
@@ -36,10 +33,6 @@ Foi desenvolvido usando:
 - JavaSript
 - React
 
-#### Desafios encontrados:
-
-#### Lições aprendidas:
-
 ### [Store API](https://github.com/Nay-ane/store-api)
 
 Foi desenvolvido usando:
@@ -47,11 +40,7 @@ Foi desenvolvido usando:
 - NodeJs
 - Express
 - PostgreSQL
-
-#### Desafios encontrados:
-
-#### Lições aprendidas:
-
+- 
 ### [Mailer API](https://github.com/Nay-ane/mailer-api)
 
 Neste exercício...
@@ -64,6 +53,12 @@ Foi desenvolvido usando:
 - Nodemailer
 - [Mailtrap](https://mailtrap.io)
 
-#### Desafios encontrados:
+### [Material UI](https://github.com/Nay-ane/material-ui-tut)
 
-#### Lições aprendidas:
+Curso introdutório ministrado pelo [TheNetNinja](https://www.youtube.com/c/TheNetNinja)
+
+Foi desenvolvido usando:
+- CSS
+- JavaSript
+- React
+- MaterialUI
